@@ -1,6 +1,6 @@
 ## Hi :wave:, I'm Andrew
 #### I'm a passionate and seasoned Middle Front-end developer with over 4 years of experience working with TypeScript and JavaScript. Throughout my career, I have successfully contributed to various web applications.
-<a href="https://drive.google.com/file/d/1ODir-f3kXl18jyf2FU0rcskiQq5y1MIm/view?usp=drive_link"><img alt="Andrew Petryk, CV" src="https://img.shields.io/badge/Andrew%20Petryk%2C%20CV%20-%20%230A66C2?style=for-the-badge&logo=readdotcv"></a>
+<a href="https://drive.google.com/file/d/1ODir-f3kXl18jyf2FU0rcskiQq5y1MIm/view?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%2C%20Resume%2FCV%20-%20%230A66C2?style=for-the-badge&logo=readdotcv"></a>
 
 ### :hammer: Top technologies
 <a href="#"><img alt="React Badge" src="https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=react&labelColor=%23282c34"></a>
