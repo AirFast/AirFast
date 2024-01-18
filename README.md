@@ -1,4 +1,5 @@
 ## Hi, I'm Andrew 👋
+I'm an experienced and passionate Front-end developer from Ukraine.
 
 ### Top technologies :hammer:
 <a href="#"><img alt="React Badge" src="https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=react&labelColor=%23282c34"></a>
