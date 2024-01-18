@@ -3,6 +3,7 @@
 
 #### Get in touch with me:
 <a href="https://www.linkedin.com/in/andrew-petryk-1352b5119"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=linkedin"></a>
+<a href="https://t.me/andrewpetryk"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=telegram"></a>
 <a href="mailto:airfast.88@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=gmail"></a>
 
 ### :hammer: Top technologies
