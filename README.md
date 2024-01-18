@@ -1,11 +1,6 @@
 ## Hi :wave:, I'm Andrew
 #### I'm a passionate and seasoned Middle Front-end developer with over 4 years of experience working with TypeScript and JavaScript. Throughout my career, I have successfully contributed to various web applications.
 
-#### Get in touch with me:
-<a href="https://www.linkedin.com/in/andrew-petryk-1352b5119"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=linkedin"></a>
-<a href="https://t.me/andrewpetryk"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=telegram"></a>
-<a href="mailto:airfast.88@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=gmail"></a>
-
 ### :hammer: Top technologies
 <a href="#"><img alt="React Badge" src="https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=react&labelColor=%23282c34"></a>
 <a href="#"><img alt="Vue Badge" src="https://img.shields.io/badge/Vue%20-%20%234FC08D?style=for-the-badge&logo=vuedotjs&labelColor=%23282c34"></a>
@@ -18,3 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airfast&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Andrew Petryk profile views](https://u8views.com/api/v1/github/profiles/17478605/views/day-week-month-total-count.svg)](https://u8views.com/github/AirFast)
+
+#### Get in touch with me:
+<a href="https://www.linkedin.com/in/andrew-petryk-1352b5119"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=linkedin"></a>
+<a href="https://t.me/andrewpetryk"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=telegram"></a>
+<a href="mailto:airfast.88@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=gmail"></a>
