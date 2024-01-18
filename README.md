@@ -1,7 +1,7 @@
 ## Hi :wave:, I'm Andrew
 I'm a passionate and seasoned Middle Front-end developer with over 4 years of experience working with TypeScript and JavaScript. Throughout my career, I have successfully contributed to various web applications.
 
-![Static Badge](https://img.shields.io/badge/Linkedin%20-%20%23282c34?style=flat-square&logo=linkedin&logoColor=%23E10098&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrew-petryk-1352b5119%2F)
+![Static Badge](https://img.shields.io/badge/Linkedin%20-%20%23282c34?style=flat-square&logo=linkedin&logoColor=%23E10098&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrew-petryk-1352b5119%2F)
 
 ### Top technologies :hammer:
 <a href="#"><img alt="React Badge" src="https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=react&labelColor=%23282c34"></a>
