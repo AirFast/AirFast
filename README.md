@@ -1,4 +1,4 @@
-## Hi, I'm Andrew 👋
+## Hi :wave:, I'm Andrew
 I'm an experienced and passionate Front-end developer from Ukraine.
 
 ### Top technologies :hammer:
