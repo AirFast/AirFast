@@ -2,8 +2,7 @@
 #### I'm a passionate and seasoned Middle Front-end developer with over 4 years of experience working with TypeScript and JavaScript. Throughout my career, I have successfully contributed to various web applications.
 
 #### Get in touch with me:
-<a href="https://www.linkedin.com/in/andrew-petryk-1352b5119"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=linkedin"></a>
-<a></a>
+<a href="https://www.linkedin.com/in/andrew-petryk-1352b5119"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=linkedin"></a>&Tab
 <a href="mailto:airfast.88@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%20-%20%230A66C2?style=social&logo=gmail"></a>
 
 ### Top technologies :hammer:
