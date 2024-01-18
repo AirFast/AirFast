@@ -1,5 +1,5 @@
 ## Hi :wave:, I'm Andrew
-I'm an experienced and passionate Front-end developer from Ukraine.
+I'm an experienced, passionate and seasoned Middle Front-end developer with over 4 years of experience working with TypeScript and JavaScript. Throughout my career, I have successfully contributed to various web applications...
 
 ### Top technologies :hammer:
 <a href="#"><img alt="React Badge" src="https://img.shields.io/badge/React%20-%20%2361DAFB?style=for-the-badge&logo=react&labelColor=%23282c34"></a>
