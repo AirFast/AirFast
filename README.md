@@ -16,6 +16,6 @@
 [![Andrew Petryk profile views](https://u8views.com/api/v1/github/profiles/17478605/views/day-week-month-total-count.svg)](https://u8views.com/github/AirFast)
 
 #### Get in touch with me:
-<a href="https://www.linkedin.com/in/andrew-petryk-1352b5119"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20%23000?style=social&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/andrew-petryk-1352b5119"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20%230A66C2?style=social&logo=linkedin"></a>
 <a href="https://t.me/andrewpetryk"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram%20-%20%23000?style=social&logo=telegram"></a>
 <a href="mailto:airfast.88@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gMail%20-%20%23000?style=social&logo=gmail"></a>
