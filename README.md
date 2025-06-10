@@ -1,5 +1,5 @@
 ## Hi :wave:, I'm Andrew
-#### I'm a passionate and seasoned Front-end Developer with over 5 years of experience working with TypeScript and JavaScript. Throughout my career, I have successfully contributed to various web applications.
+#### I'm a passionate and seasoned Front-end Developer with over 6 years of experience working with TypeScript and JavaScript. Throughout my career, I have successfully contributed to various web applications.
 <a href="https://drive.google.com/file/d/1kMo41T2nda9qsKwLSSsYq6-Xt_8EjrjK/view?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/Andrew%20Petryk%2C%20Resume%2FCV%20-%20%230A66C2?style=for-the-badge&logo=readdotcv"></a>
 
 ### :hammer: Top technologies
